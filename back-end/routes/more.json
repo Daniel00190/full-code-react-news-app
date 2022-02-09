@@ -1,0 +1,160 @@
+{
+   "articles": [
+      {
+         "source": {
+            "id": null,
+            "name": "New York Times"
+         },
+         "author": "Eliza Shapiro",
+         "title": "Covid-19 Global News: Live Updates on Regeneron, Vaccines and Variants - The New York Times",
+         "description": "A study has bolstered the case that antibody drugs can protect against Covid-19. Britain is reopening parts of its economy. And Australia has abandoned a goal to vaccinate its entire population in 2021.",
+         "url": "https://www.nytimes.com/live/2021/04/12/world/covid-vaccine-coronavirus-cases",
+         "urlToImage": "https://static01.nyt.com/images/2021/04/09/science/09virus-briefing-regeneron/merlin_181518747_72b50a15-1521-4bcf-8554-eced9cbb7bde-facebookJumbo.jpg",
+         "publishedAt": "2021-04-12T14:23:43Z",
+         "content": "LiveUpdated April 12, 2021, 10:50 a.m. ET\r\nApril 12, 2021, 10:50 a.m. ET\r\nA study has bolstered the case that antibody drugs can protect against Covid-19. Britain is reopening parts of its economy. A… [+25660 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "KCRA Sacramento"
+         },
+         "author": "Melanie Wingo",
+         "title": "Placer County 'pulling the trigger' on next vaccine eligibility phase - KCRA Sacramento",
+         "description": "People 16+ can now sign up for COVID vaccine appointments in Placer County — ahead of state expansion",
+         "url": "https://www.kcra.com/article/placer-pulling-trigger-eligibility-phase/36090116",
+         "urlToImage": "https://kubrick.htvapps.com/vidthumb/e785a207-6a28-439f-94f5-c79478e828d8/e785a207-6a28-439f-94f5-c79478e828d8_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "publishedAt": "2021-04-12T14:14:00Z",
+         "content": "Citing hundreds of still-available appointment slots at its county-run COVID vaccine clinic @the Grounds in Roseville, Placer County Public Health is now expanding vaccine eligibility to include peop… [+2177 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "MarketWatch"
+         },
+         "author": "Mark DeCambre, , Andrea Riquier",
+         "title": "Stocks edge back to kick off earnings week as Powell says U.S. economy at 'inflection point' - MarketWatch",
+         "description": "U.S. stocks on Monday head modestly lower in a week that will see the unofficial start of first-quarter earnings, headlined by some of the nation's largest...",
+         "url": "https://www.marketwatch.com/story/dow-set-to-edge-back-to-kick-off-week-of-earnings-as-powell-says-u-s-economy-at-inflection-point-11618225295",
+         "urlToImage": "https://images.mktw.net/im-288349/social",
+         "publishedAt": "2021-04-12T13:41:00Z",
+         "content": "U.S. stocks traded modestly lower Monday at the start of a week that will see the unofficial start of first-quarter earnings, headlined by some of the nations largest banks, including JPMorgan Chase … [+6282 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+         },
+         "author": "Ryan Parker",
+         "title": "Casa Bonita, Landmark Colorado Restaurant Featured in 'South Park,' Files for Chapter 11 Bankruptcy - Hollywood Reporter",
+         "description": "Trey Parker and Matt Stone have considered buying the business in the past.",
+         "url": "https://www.hollywoodreporter.com/news/casa-bonita-landmark-colorado-restaurant-featured-in-south-park-files-for-chapter-11-bankruptcy",
+         "urlToImage": "https://static.hollywoodreporter.com/wp-content/uploads/2021/04/711CasaBonita1-1618230610-1024x577.jpg",
+         "publishedAt": "2021-04-12T13:05:55Z",
+         "content": "Casa Bonita, the iconic Colorado restaurant featured in South Park, has filed for Chapter 11 bankruptcy.\r\nThe enormous Mexican restaurant, which features an arcade, cave and waterfall with cliff dive… [+1190 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+         },
+         "author": "Paul Lienert",
+         "title": "Intel's Mobileye teams with startup Udelv on automated delivery - Yahoo Finance",
+         "description": "Intel Corp’s Mobileye has teamed with four-year-old Silicon Valley startup Udelv in an effort to put automated electric delivery vehicles into service in the...",
+         "url": "https://finance.yahoo.com/news/intels-mobileye-teams-startup-udelv-130000490.html",
+         "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+         "publishedAt": "2021-04-12T13:00:00Z",
+         "content": "(Bloomberg) -- After China imposed a record antitrust fine on Alibaba Group Holding Ltd., the e-commerce giant did an unusual thing: It thanked regulators.Alibaba would not have achieved our growth w… [+8226 chars]"
+      },
+      {
+         "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+         },
+         "author": "Janine Puhak",
+         "title": "CDC 'hopeful' that cruises can resume by mid-summer, Buttigieg says - Fox News",
+         "description": "Transportation Secretary Pete Buttigieg said the Centers for Disease Control and Prevention (CDC) is optimistic that cruises can resume by mid-summer, as operators struggle to stay afloat one year after sailing was shut down due to coronavirus concerns.",
+         "url": "https://www.foxnews.com/travel/cdc-hopeful-that-cruises-can-resume-by-mid-summer-buttigieg-says",
+         "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Pete-Buttigieg-Biden-Jobs-Plan-AP.jpg",
+         "publishedAt": "2021-04-12T12:54:58Z",
+         "content": "Good news for cruises?\r\nTransportation Secretary Pete Buttigieg said the Centers for Disease Control and Prevention (CDC) is optimistic that cruises can resume by mid-summer, as operators struggle to… [+3530 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+         },
+         "author": "Alex Longley and Andres Guerra Luz",
+         "title": "Oil Rises Above $60 as Investors Weigh Near-Term Demand Outlook - Yahoo Finance",
+         "description": "(Bloomberg) -- Oil gained the most intraday in nearly a week with the market focusing on bright spots in the global demand recovery.Futures in New York rose ...",
+         "url": "https://finance.yahoo.com/news/oil-holds-near-59-fed-225152435.html",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/uVD96hnfugg5jI4_2Acjeg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/cf0de9c2d984033be0e78917ca4bfa84",
+         "publishedAt": "2021-04-12T12:54:40Z",
+         "content": "(Bloomberg) -- After China imposed a record antitrust fine on Alibaba Group Holding Ltd., the e-commerce giant did an unusual thing: It thanked regulators.Alibaba would not have achieved our growth w… [+8226 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+         },
+         "author": "Julia La Roche",
+         "title": "Uber says demand for rides is recovering faster than driver availability - Yahoo Finance",
+         "description": "Uber said its total gross bookings hit the highest level in its history during the month of March.",
+         "url": "https://finance.yahoo.com/news/uber-says-total-gross-bookings-hits-highest-level-in-march-124506327.html",
+         "urlToImage": "https://s.yimg.com/os/creatr-images/2019-12/2abe75f0-17c6-11ea-bfdd-167c2bd6afe0",
+         "publishedAt": "2021-04-12T12:45:06Z",
+         "content": "(Bloomberg) -- After China imposed a record antitrust fine on Alibaba Group Holding Ltd., the e-commerce giant did an unusual thing: It thanked regulators.Alibaba would not have achieved our growth w… [+8226 chars]"
+      },
+      {
+         "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+         },
+         "author": "Dave Sebastian",
+         "title": "Uber Posts Record Rider Demand in March - The Wall Street Journal",
+         "description": "Gross bookings rose to highest monthly level in company’s history as Covid-19 vaccinations pick up",
+         "url": "https://www.wsj.com/articles/uber-posts-record-rider-demand-in-march-11618231447",
+         "urlToImage": "https://images.wsj.net/im-323597/social",
+         "publishedAt": "2021-04-12T12:44:00Z",
+         "content": "Uber Technologies Inc. said it sees ride-hailing demand recovering faster than driver availability as Covid-19 vaccination rates increase in the U.S.\r\nThe company on Monday said gross bookings for Ma… [+960 chars]"
+      },
+      {
+         "source": {
+            "id": "cnn",
+            "name": "CNN"
+         },
+         "author": "Alexis Benveniste, CNN Business",
+         "title": "Mastercard launches carbon calculator in its latest attempt to go green - CNN",
+         "description": "Mastercard wants consumers to understand how much their spending habits are contributing to carbon emissions and global warming.",
+         "url": "https://www.cnn.com/2021/04/12/business/mastercard-carbon-calculator/index.html",
+         "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210409163814-mastercard-transaction---stock-super-tease.jpg",
+         "publishedAt": "2021-04-12T12:39:00Z",
+         "content": null
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+         },
+         "author": "Chavi Mehta and Krystal Hu",
+         "title": "Microsoft to buy AI firm Nuance Communications for about $16 billion in healthcare push - Yahoo Finance",
+         "description": "(Reuters) -Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion in...",
+         "url": "https://finance.yahoo.com/news/microsoft-buy-ai-firm-nuance-123731776.html",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Y5Ykkpy.HRCzDVvn00K1PQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/be25329e641f38cc4475cdabdcf54e0e",
+         "publishedAt": "2021-04-12T12:37:31Z",
+         "content": "(Bloomberg) -- After China imposed a record antitrust fine on Alibaba Group Holding Ltd., the e-commerce giant did an unusual thing: It thanked regulators.Alibaba would not have achieved our growth w… [+8226 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Fox Business"
+         },
+         "author": "Nick Dauk",
+         "title": "Federal Reserve keeps rates low — how your mortgage refinance is impacted - Fox Business",
+         "description": "Homeowners should consider refinancing their mortgage to take advantage of the lower Federal funds rate.",
+         "url": "https://www.foxbusiness.com/money/federal-reserve-low-rates-mortgage-refinance-impact",
+         "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/Credible-federal-reserve-iStock-thumbnail-1194407030.jpg?ve=1&tl=1",
+         "publishedAt": "2021-04-12T12:22:22Z",
+         "content": "Until other economic factors show signs of consistent recovery from the coronavirus pandemic’s impact, the Federal Reserve has decided that the federal funds rate will remain unchanged. If you’re con… [+4510 chars]"
+      }
+   ]
+}
